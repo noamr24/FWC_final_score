@@ -1,0 +1,57 @@
+[  {
+    "name": "Or",
+    "current_score": 152.5,
+    "bonus_bets":{
+        "team": "Argentina",
+        "scorer": "Mbappe"
+        }
+    },
+   {
+    "name": "Elliot",
+    "current_score": 127.5,
+    "bonus_bets": {
+        "team": "Eng",
+        "scorer": "Kane"
+        }
+    },
+    {
+    "name": "Amit",
+    "current_score": 126.5,
+    "bonus_bets":{
+        "team": "Brazil",
+        "scorer": "Mbappe"
+        }
+    },
+    {
+    "name": "Noam",
+    "current_score": 122.5,
+    "bonus_bets":{
+        "team": "Ger",
+        "scorer": "Messi"
+        }
+    },
+    {
+    "name": "Yarden",
+    "current_score": 116.0,
+    "bonus_bets":{
+        "team": "Argentina",
+        "scorer": "Ronaldo"
+        }
+    },
+    {
+    "name": "Sagi",
+    "current_score": 114.5,
+    "bonus_bets":{
+        "team": "Ger",
+        "scorer": "Messi"
+        }
+    },
+    {
+    "name": "Lidor",
+    "current_score": 112.0,
+    "bonus_bets":{
+        "team": "Argentina",
+        "scorer": "Kane"
+        }
+    }
+]
